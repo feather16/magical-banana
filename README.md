@@ -11,7 +11,7 @@ Firefoxで動作確認済み。
 Chromeだと動かない。他のブラウザは未検証。
 
 # 実行方法
-- MagicalBanana.htmlをブラウザで開く。
+- [こちら](https://feather16.github.io/MagicalBanana/)
 
 # 遊び方
 - 「○○と言えば？」と聞かれるので、それに関連したものを選ぶ。
