@@ -10,7 +10,7 @@ Firefoxで動作確認済み。
 - Android
 Chromeだと動かない。他のブラウザは未検証。
 
-# 実行方法
+# 遊ぶ
 - [こちら](https://feather16.github.io/MagicalBanana/)
 
 # 遊び方
