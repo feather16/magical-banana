@@ -3,12 +3,11 @@
 純粋なJavascriptへの理解を深めるため、敢えてJQueryを使用していません。
 
 # 実行環境
-- Windows10
-EdgeとChromeで動作確認済み。
-- Linux(Ubuntu)
-Firefoxで動作確認済み。
-- Android
-Chromeだと動かない。他のブラウザは未検証。
+|OS|ブラウザ|
+|-|-|
+|Windows10|EdgeとChromeで動作確認済み|
+|Linux(Ubuntu)|Firefoxで動作確認済み|
+|Android|Chromeだと動かない、他のブラウザは未検証|
 
 # 遊ぶ
 - [こちら](https://feather16.github.io/MagicalBanana/)
