@@ -1,6 +1,6 @@
 # MagicalBanana
 1人用マジカルバナナです。<br>
-純粋なJavascriptへの理解を深めるため、敢えて[jQuery](https://jquery.com/)を使用していません。
+純粋なJavaScriptへの理解を深めるため、敢えて[jQuery](https://jquery.com/)を使用していません。
 
 # 実行環境
 |OS|ブラウザ|
