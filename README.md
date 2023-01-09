@@ -1,4 +1,4 @@
-# MagicalBanana
+# magical-banana
 1人用マジカルバナナです。<br>
 純粋なJavaScriptへの理解を深めるため、敢えて[jQuery](https://jquery.com/)を使用していません。
 
